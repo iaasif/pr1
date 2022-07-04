@@ -1,45 +1,46 @@
-
-
-body{
+body {
     font-family: 'Noto Sans', sans-serif;
 
 }
 
-.firstSection{
+.firstSection {
     display: flex;
     padding-bottom: 250px;
 
 }
 
 
-.halfWidth{
+.halfWidth {
     width: 50%;
     padding-left: 40px;
     padding-top: 30px;
     padding-right: 100px;
-    
+
 }
 
-#boyImg{
-    width:800px;height:800px;
+#boyImg {
+    width: 800px;
+    height: 800px;
 }
 
-h1{
+h1 {
     font-size: 60px;
 }
-p{
+
+p {
     font-size: 20px;
 }
 
-.secondSection{
+.secondSection {
     display: flex;
     padding-bottom: 250px;
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
 
 }
-#fimg{
+
+#fimg {
     width: 370px;
     height: 570px;
-   padding-left: 100px;
+    padding-left: 100px;
 }
