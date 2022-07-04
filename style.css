@@ -44,3 +44,15 @@ p {
     height: 570px;
     padding-left: 100px;
 }
+
+#thirdSection{
+    text-align: center;
+    padding-top: 2%;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-bottom: 10%;
+
+}
+#aboutMe{
+    font-weight:bolder;
+}
